@@ -21,7 +21,7 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxypro1&layout=compact&theme=tokyonight)
 
-  # Contacts (not recommended)
+  # Contacts
 
   [✉️ Personal Email](tzblackwood22@gmail.com)
   
