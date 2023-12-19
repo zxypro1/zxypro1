@@ -23,7 +23,7 @@
 
   # Contacts
 
-  [✉️ Personal Email](tzblackwood22@gmail.com)
+  ✉️ Personal Email: tzblackwood22@gmail.com
   
   💬 Wechat: TZ-blackwoods
   
