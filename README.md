@@ -5,7 +5,7 @@
   
   👨‍🎓 Graduated from NUS, XDU.
 
-  🧑‍💻 Interest in Python, C++, TS, Rust, Games development...
+  🧑‍💻 Interest in Python, C++, TS, Rust, Game development...
   
   🕹️ Retro gamer.
   
