@@ -15,8 +15,6 @@
 
   ![](https://github-readme-stats.vercel.app/api?username=zxypro1&show_icons=true&theme=transparent)
 
-  ![Visitor Count](https://profile-counter.glitch.me/zxypro1/count.svg)
-
   # Skill Set
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxypro1&layout=compact&theme=tokyonight)
