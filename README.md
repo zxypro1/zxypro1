@@ -11,7 +11,7 @@
   
   🖥️ Trying to be a full stack developer.
 
-  💼 Working in [@Alibaba Cloud](https://github.com/aliyun).
+  💼 Working in [DeepWisdom](https://github.com/FoundationAgents).
 
   ![](https://github-readme-stats.vercel.app/api?username=zxypro1&show_icons=true&theme=transparent)
 
