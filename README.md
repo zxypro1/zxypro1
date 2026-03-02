@@ -15,10 +15,6 @@
 
   ![](https://github-readme-stats.vercel.app/api?username=zxypro1&show_icons=true&theme=transparent)
 
-  # Skill Set
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxypro1&layout=compact&theme=tokyonight)
-
   # Contacts
 
   ✉️ Email: tzblackwood22@gmail.com, 1018995004@qq.com
