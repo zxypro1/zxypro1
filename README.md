@@ -13,8 +13,6 @@
 
   💼 Working in [@DeepWisdom](https://github.com/FoundationAgents).
 
-  ![](https://github-readme-stats.vercel.app/api?username=zxypro1&show_icons=true&theme=transparent)
-
   # Contacts
 
   ✉️ Email: tzblackwood22@gmail.com, 1018995004@qq.com
