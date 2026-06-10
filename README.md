@@ -5,11 +5,11 @@
   
   👨‍🎓 Graduated from NUS, XDU.
 
-  🧑‍💻 Interest in Python, C++, TS, Rust, Game development...
+  🖥️ Full stack developer.
+
+  🧑‍💻 Interest in vibe coding, AI native game development...
   
-  🕹️ Retro gamer.
-  
-  🖥️ Trying to be a full stack developer.
+  🕹️ Gamer, writer, trying to be musician.
 
   💼 Working in [@DeepWisdom](https://github.com/FoundationAgents).
 
