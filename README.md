@@ -23,9 +23,9 @@ Trying to understand everything, one project at a time.
 ## What I work with
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,go,cpp,react,nextjs,nodejs,postgres&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,go,cpp,react,nextjs,nodejs,postgres&theme=light" />
-  <img alt="TypeScript, JavaScript, Python, Go, C++, React, Next.js, Node.js, and PostgreSQL" src="https://skillicons.dev/icons?i=ts,js,py,go,cpp,react,nextjs,nodejs,postgres&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Cgo%2Ccpp%2Creact%2Cnextjs%2Cnodejs%2Cpostgres&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Cgo%2Ccpp%2Creact%2Cnextjs%2Cnodejs%2Cpostgres&amp;theme=light" />
+  <img alt="TypeScript, JavaScript, Python, Go, C++, React, Next.js, Node.js, and PostgreSQL" src="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Cgo%2Ccpp%2Creact%2Cnextjs%2Cnodejs%2Cpostgres&amp;theme=light" />
 </picture>
 
 **Current focus**
