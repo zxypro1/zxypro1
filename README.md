@@ -44,15 +44,6 @@ Trying to understand everything, one project at a time.
 ![Developer Tools](https://img.shields.io/badge/Developer_Tools-0F766E?style=flat-square)
 ![AI-native Games](https://img.shields.io/badge/AI--native_Games-7C3AED?style=flat-square)
 
-## Selected projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**AlgoLocal**](https://github.com/zxypro1/algolocal) | Practice algorithms and real-world engineering projects locally, with optional AI assistance. | TypeScript · Electron · Next.js |
-| [**Smart Learning**](https://github.com/zxypro1/smart-learning) | An AI-powered platform for generating, learning, and sharing structured online courses. | Next.js · TypeScript · PostgreSQL |
-| [**OpenAPI to MCP Converter**](https://github.com/zxypro1/openapi-to-mcp-converter) | Turn an OpenAPI specification into a Model Context Protocol server. | TypeScript · Node.js · MCP |
-| [**AMap Maps MCP Server**](https://github.com/zxypro1/amap-maps-mcp-server) | Bring AMap location and mapping capabilities to AI clients through MCP. | JavaScript · MCP · AMap |
-
 ## Let's connect
 
 - Blog: [scowboy-blog.top](https://scowboy-blog.top)
