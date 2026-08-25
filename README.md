@@ -11,8 +11,6 @@
   
   🕹️ Gamer, writer, trying to be musician.
 
-  💼 Working in [@DeepWisdom](https://github.com/FoundationAgents).
-
   # Contacts
 
   ✉️ Email: tzblackwood22@gmail.com, 1018995004@qq.com
