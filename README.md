@@ -22,20 +22,11 @@ Trying to understand everything, one project at a time.
 
 ## What I work with
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Web & data**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,go,cpp,react,nextjs,nodejs,postgres&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,go,cpp,react,nextjs,nodejs,postgres&theme=light" />
+  <img alt="TypeScript, JavaScript, Python, Go, C++, React, Next.js, Node.js, and PostgreSQL" src="https://skillicons.dev/icons?i=ts,js,py,go,cpp,react,nextjs,nodejs,postgres&theme=light" />
+</picture>
 
 **Current focus**
 
@@ -43,6 +34,24 @@ Trying to understand everything, one project at a time.
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-5A45FF?style=flat-square)
 ![Developer Tools](https://img.shields.io/badge/Developer_Tools-0F766E?style=flat-square)
 ![AI-native Games](https://img.shields.io/badge/AI--native_Games-7C3AED?style=flat-square)
+
+## GitHub activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zxypro1/zxypro1/output/github-stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zxypro1/zxypro1/output/github-stats.svg" />
+  <img alt="Zone Tome's GitHub stats" src="https://raw.githubusercontent.com/zxypro1/zxypro1/output/github-stats.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zxypro1/zxypro1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zxypro1/zxypro1/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation generated from the GitHub contribution graph" src="https://raw.githubusercontent.com/zxypro1/zxypro1/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ## Let's connect
 
