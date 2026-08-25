@@ -14,7 +14,6 @@ Trying to understand everything, one project at a time.
 
 ## About me
 
-- 🧑‍💻 Full-stack developer at [DeepWisdom](https://github.com/DeepWisdom)
 - 🎓 Alumnus of the National University of Singapore and Xidian University
 - 🧠 Interested in AI-native applications, coding agents, MCP, and vibe coding
 - 🎮 Exploring how AI can change the way games are designed and built
