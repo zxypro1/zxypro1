@@ -4,7 +4,7 @@
 
 ### Full-stack developer building AI-native products, developer tools, and playful experiments.
 
-Trying to understand everything, one project at a time.
+Trying to understand everything.
 
 [![Blog](https://img.shields.io/badge/Blog-scowboy--blog.top-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://scowboy-blog.top)
 [![Email](https://img.shields.io/badge/Email-tzblackwood22%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tzblackwood22@gmail.com)
@@ -58,9 +58,3 @@ Trying to understand everything, one project at a time.
 - Blog: [scowboy-blog.top](https://scowboy-blog.top)
 - Email: [tzblackwood22@gmail.com](mailto:tzblackwood22@gmail.com) · [1018995004@qq.com](mailto:1018995004@qq.com)
 - WeChat: `TZ-blackwoods`
-
-<div align="center">
-
-_Build things. Learn in public. Keep the adventure going._ 🧙🏻‍♂️
-
-</div>
