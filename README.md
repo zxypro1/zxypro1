@@ -18,7 +18,6 @@ Trying to understand everything.
 - 🧠 Interested in AI-native applications, coding agents, MCP, and vibe coding
 - 🎮 Exploring how AI can change the way games are designed and built
 - ✍️ RPG lover, writer, and musician-in-progress
-- 📍 Based in Shenzhen, China
 
 ## What I work with
 
